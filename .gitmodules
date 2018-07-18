@@ -1,0 +1,3 @@
+[submodule "Submodule-A"]
+	path = Submodule-A
+	url = git@github.com:lsilvs/Submodule-A.git
